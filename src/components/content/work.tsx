@@ -1,7 +1,7 @@
 import { NavLink } from 'react-router-dom'
 import project1 from '../../assets/img.png'
 import link from '../../assets/arrow.png'
-import verizon from '../../assets/verizon.png'
+import verizon from '../../assets/verizon.PNG'
 import spring from '../../assets/spring.png'
 import design from '../../assets/logo.png'
 import web from '../../assets/web-programming.png'
